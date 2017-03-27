@@ -13,12 +13,11 @@
       <li>Git이란?</li>
       <li>버전</li>
       <li>Branch</li>
+      <li>브랜치</li>
     </ul>
-  
-   <body>
-=======
-   head
->>>>>>> ?ㅽ뿕
+ 
+  <body>
+
 
 예제 추가 및 브랜치 합치기
 </html>
