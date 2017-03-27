@@ -21,6 +21,7 @@
       <li>pull</li>
       <li>push.strike123</li>
       <li>push.strike122</li>
+      <li>complete.strike123</li>
     </ul>
  
   <body>
